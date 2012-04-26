@@ -1,0 +1,4 @@
+nauka
+=====
+
+Kod do nauki
